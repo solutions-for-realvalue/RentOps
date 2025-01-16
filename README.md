@@ -101,6 +101,7 @@ RentOps/
 ├── docs/
 │   ├── README.md                  # Project documentation
 │   ├── CONTRIBUTING.md            # Contribution guidelines
+```
 
 ---
 
